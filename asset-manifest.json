@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.547bc410.css",
-    "main.js": "/static/js/main.e16ef058.js",
-    "static/js/787.de8636bf.chunk.js": "/static/js/787.de8636bf.chunk.js",
-    "static/media/question.png": "/static/media/question.058b77fb928c3b6c6722.png",
-    "index.html": "/index.html",
-    "main.547bc410.css.map": "/static/css/main.547bc410.css.map",
-    "main.e16ef058.js.map": "/static/js/main.e16ef058.js.map",
-    "787.de8636bf.chunk.js.map": "/static/js/787.de8636bf.chunk.js.map"
+    "main.css": "/do_i_have_common_sense/static/css/main.547bc410.css",
+    "main.js": "/do_i_have_common_sense/static/js/main.b29c1a07.js",
+    "static/js/787.de8636bf.chunk.js": "/do_i_have_common_sense/static/js/787.de8636bf.chunk.js",
+    "static/media/question.png": "/do_i_have_common_sense/static/media/question.058b77fb928c3b6c6722.png",
+    "index.html": "/do_i_have_common_sense/index.html",
+    "main.547bc410.css.map": "/do_i_have_common_sense/static/css/main.547bc410.css.map",
+    "main.b29c1a07.js.map": "/do_i_have_common_sense/static/js/main.b29c1a07.js.map",
+    "787.de8636bf.chunk.js.map": "/do_i_have_common_sense/static/js/787.de8636bf.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.547bc410.css",
-    "static/js/main.e16ef058.js"
+    "static/js/main.b29c1a07.js"
   ]
 }
